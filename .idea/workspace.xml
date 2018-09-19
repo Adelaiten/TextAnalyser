@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8da9ea48-708e-46c7-b276-fc5718b815b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Java - I SI week" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java - Teamworks/Battleships - warm up/key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java - Teamworks/Testowy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java - Teamworks/Testowy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java - Teamworks/battle-of-cards-nowagrupadocelowa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java - Teamworks/battleship-warmup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java - Teamworks/javase-klondike-solitaire-karol-dariusz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java - Teamworks/sample/CompoundInterest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java - Teamworks/sample/CompoundInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java - Teamworks/the-enigma-java-pioneers/the-enigma-java-pioneers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/krk/Root.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/krk/controllers/FileContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/krk/controllers/StatisticalAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/CharIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/IterableText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/WordIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/output_test_test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test_dickens_great.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test_malville_moby.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Mateusz-Karol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/accounting/accounting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/accounting/items.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/accounting/items_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/crm/crm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/crm/customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/crm/customers_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/hr/hr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/hr/persons.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/hr/persons_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/inventory/inventory.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/inventory/inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/inventory/inventory_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/sales/sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/sales/sales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/sales/sales_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/store/games.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/store/games_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/store/store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/16.04.2018/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/gameInventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/gameInventoryTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/progbasics-bowling-refactor-Adelaiten" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/test_inventory.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/test_inventory_export.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Rogue_like/rogue_like.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Untitled Folder/Land.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Untitled Folder/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Untitled Folder/Monster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Untitled Folder/Player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Untitled Folder/Tile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Untitled Folder/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Untitled Folder/map1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Untitled Folder/monsters1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Untitled Folder/roguelike-adventure-game-luk-adelaiten-paprok" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../eisenhower-matrix-Adelaiten" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../gitting_dojo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../progbasics-bowling-refactor-Adelaiten" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../progbasics-code-comprehension-Adelaiten" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../progbasics-game-statistics-reports-Adelaiten" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../progbasics-pair-programming-exercises-marta-lukasz-rafal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../progbasics-python-game-inventory-Adelaiten" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../python-lightweight-erp-project-mateusz_karol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../roguelike-adventure-game-luk-adelaiten-paprok" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/music/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/music/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/music/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/music/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/music/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/music/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/music/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/music/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/website/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/website/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/website/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../website/website/wsgi.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="685623956">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="308" />
+          <entry key="xml" value="73" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="308" />
+          <entry key="XML" value="73" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/controllers/FileContent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/controllers/StatisticalAnalysis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-810">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/IterableText.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/WordIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/JavaFXView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/Root.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/views/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="71" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/CharIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>View</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/IterableText.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/krk/views/JavaFXView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/WordIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/CharIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/krk/JavaFXView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/krk/views/View.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/krk/controllers/StatisticalAnalysis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/krk/controllers/FileContent.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codecool/krk/Root.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="57" />
+    <option name="y" value="6" />
+    <option name="width" value="1319" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TextAnalyser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextAnalyser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TextAnalyser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextAnalyser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TextAnalyser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextAnalyser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TextAnalyser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextAnalyser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TextAnalyser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextAnalyser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="krk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TextAnalyser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextAnalyser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="krk" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TextAnalyser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextAnalyser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="krk" type="462c0819:PsiDirectoryNode" />
+              <item name="iterators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TextAnalyser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextAnalyser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="krk" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TextAnalyser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextAnalyser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TextAnalyser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TextAnalyser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537349497941" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/codecool/krk" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/codecool/krk/controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaFXView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codecool.krk.JavaFXView" />
+      <module name="TextAnalyser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.krk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaFXView" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8da9ea48-708e-46c7-b276-fc5718b815b6" name="Default Changelist" comment="" />
+      <created>1537347962341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537347962341</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="-4" width="1319" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24943139" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32866043" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/WordIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/IterableText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/controllers/FileContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/controllers/StatisticalAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/iterators/CharIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/views/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="71" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/JavaFXView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codecool/krk/Root.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
